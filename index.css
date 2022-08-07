@@ -1,0 +1,63 @@
+* {
+  background-color: rgb(255, 244, 240);
+  background: url(电脑壁纸1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+li {
+  height: 4rem;
+  border: 20px black;
+}
+.shousuo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  font-size: 2rem;
+}
+.biaoti {
+  font-size: 25px;
+  margin-bottom: 0%;
+}
+.xiangmu {
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+div:hover {
+  height: 100%;
+}
+.xiangmu-1 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  height: 50px;
+  overflow: hidden;
+  transition: ease 1ms;
+}
+.xiangmu-2 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  height: 50px;
+  transition: ease 1ms;
+}
+.xiangmu-3 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  height: 50px;
+  transition: ease 1ms;
+}
+.xiangmu-4 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  overflow: hidden;
+  height: 50px;
+  transition: ease 1ms;
+}
